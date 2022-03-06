@@ -1,0 +1,5 @@
+#some comments
+secret.txt
+
+#git ignore all files that has .js extention
+*.js
